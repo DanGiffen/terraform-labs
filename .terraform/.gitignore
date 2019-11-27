@@ -1,0 +1,8 @@
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+*.log
+.terraform/
+.vscode/
+*.json
+*.exe

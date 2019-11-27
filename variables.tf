@@ -1,6 +1,6 @@
 variable "loc" {
     description = "Default Azure Region"
-    default     = "West Euorope"
+    default     = "West Europe"
     }
 
 variable "tags" {
@@ -9,3 +9,4 @@ variable "tags" {
         env     = "training"
     }
 }
+
